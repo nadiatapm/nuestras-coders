@@ -1,0 +1,53 @@
+.contenedor{
+	height:500px;
+	width: 700px;
+	position:relative;
+	background-color:whitesmoke;
+	margin:auto;
+
+}
+
+hr{
+	margin-left:9px;
+	border-style:solid;
+	border-width: 1px;
+	width: 70px;
+}
+.foto{
+	width:210px;
+	height:210px;
+    display:inline-block;
+    border:1px solid#8D8585;
+    margin:5px;
+    position:relative;
+    background-color:whitesmoke;
+
+}
+.texto{
+    font-family:Arial;
+    color:#F4F4F4;
+    font-size:12px;
+    position:absolute;
+    bottom:10px;
+    right:0px;
+    margin:5px;
+
+ }
+ .uno{
+ 	background-image:url(../img/profile-1.png);
+
+ }
+ .dos{
+ 	background-image:url(../img/profile-2.png);
+ }
+ .tres{
+ 	background-image:url(../img/profile-3.png);
+ }
+ .cuatro{
+ 	background-image:url(../img/profile-4.png);
+ }
+ .cinco {
+ 	background-image:url(../img/profile-5.png);
+ }
+ .seis {
+ 	background-image:url(../img/profile-6.png);
